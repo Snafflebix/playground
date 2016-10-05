@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+Welcome to my webpage!
+</head>
+
+<body>
+ <p> My top 3 animals: </p>
+ <ul>
+  <li> Wooly Mammoth </li>
+  <li> Bears </li>
+  <li> Frogs </li>
+ </ul>
+<body>
+
+</html>
