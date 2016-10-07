@@ -6,12 +6,12 @@ Welcome to my webpage!
 </head>
 
 <body>
- <p> My top 3 animals: </p>
+ <h3><u> My top 3 animals: </u></h3>    <!--This is heading 3 underlined-->
  <ul>
   <li> Wooly Mammoth </li>
   <li> Bears </li>
   <li> Frogs </li>
  </ul>
-<body>
+</body>                          <!--Wrong finsh of body-->
 
 </html>
